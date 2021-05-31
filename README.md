@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I am Teeka Lemein. I consider myself to be a life long learner.
+## I am Teeka Lemein. I a life long learner.
 
 <!--
 **teekize/teekize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
