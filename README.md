@@ -16,13 +16,37 @@
 
 ### Some Projects i have done
 
-1. Netflix-clone : (https://wizardly-torvalds-7ccbf9.netlify.app/)
+## Kutana 
 
-2. Okoa Camp : (https://mpokoacap.glitch.me/)
+Kutana is a video and chat web application for friends and family. Made with WebRtc, SocketIo and Express
 
-3. FullStack Conf website :(https://fullstackcon.glitch.me/)
+[Kutana](https://radiant-bayou-06790.herokuapp.com/)
 
-4. RSVP React Application: (https://pedantic-visvesvaraya-03e7a2.netlify.app/)
+## Netflix-clone
+
+Netflix clone made using React.
+
+[Netflix-clone](https://wizardly-torvalds-7ccbf9.netlify.app/)
+
+## Okoa Camp
+
+Okoa camp is a fullstack project made using Node Js, Express and EJS.
+
+[Okoa Camp](https://finalokoa.glitch.me/)
+
+## FullStack Conf
+
+A website for Full stack conf in Nairobi.
+
+[FullStack Conf website](https://fullstackcon.glitch.me/)
+
+## RSVP APP
+
+RSVP implements an RSVP application for guest tracking built with React.
+
+[RSVP React Application](https://pedantic-visvesvaraya-03e7a2.netlify.app/)
+
+<!-- 6. [Kutana](https://radiant-bayou-06790.herokuapp.com/) -->
 
 
 
