@@ -5,7 +5,7 @@
 <!--
 **teekize/teekize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I love making REST APIs.
+- 🔭 I love making and consuming REST APIs.
 - 🌱 I’m currently learning webRTC and some browser APIS.
 - 👯 I’m looking to collaborate on anything that you have, I would not mind open source.
 - 💬 Ask me about React , NodeJs, Python, WebRTC,Javascript and REST APIs.
@@ -16,17 +16,24 @@
 
 ### Some Projects i have done
 
-## Kutana 
 
-Kutana is a video and chat web application for friends and family. Made with WebRtc, SocketIo and Express
 
-[Kutana](https://radiant-bayou-06790.herokuapp.com/)
+## Admin Dashboard
+I made this dashboard using React Js, icons from Material UI, graphs from Recharts and plain CSS.
+
+[Admin-Dashboard](https://silly-rosalind-b069fe.netlify.app/)
 
 ## Netflix-clone
 
 Netflix clone made using React.
 
 [Netflix-clone](https://wizardly-torvalds-7ccbf9.netlify.app/)
+
+## Kutana 
+
+Kutana is a video and chat web application for friends and family. Made with WebRtc, SocketIo and Express
+
+[Kutana](https://radiant-bayou-06790.herokuapp.com/)
 
 ## Okoa Camp
 
