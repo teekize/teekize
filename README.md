@@ -21,7 +21,7 @@
 ## Admin Dashboard
 I made this dashboard using React Js, icons from Material UI, graphs from Recharts and plain CSS.
 
-[Admin-Dashboard](https://silly-rosalind-b069fe.netlify.app/home)
+[Admin-Dashboard](https://silly-rosalind-b069fe.netlify.app/)
 
 ## Netflix-clone
 
